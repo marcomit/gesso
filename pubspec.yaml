@@ -1,11 +1,11 @@
 name: gesso
 description: A lightweight, chainable terminal styling library for Dart that makes your console output beautiful and expressive with ANSI escape sequences.
-version: 1.0.1
+version: 1.0.2
 
-repository: https://github.com/yourusername/gesso
-homepage: https://github.com/yourusername/gesso
+repository: https://github.com/marcomit/gesso
+homepage: https://github.com/marcomit/gesso
 documentation: https://pub.dev/documentation/gesso/latest/
-issue_tracker: https://github.com/yourusername/gesso/issues
+issue_tracker: https://github.com/marcomit/gesso/issues
 
 topics:
   - terminal
@@ -14,9 +14,8 @@ topics:
   - console
   - logging
 
-
 environment:
-  sdk: '>=3.0.0 <4.0.0'
+  sdk: ">=3.0.0 <4.0.0"
 
 platforms:
   android:
@@ -31,4 +30,3 @@ dependencies:
 dev_dependencies:
   lints: ^5.0.0
   test: ^1.24.0
-
