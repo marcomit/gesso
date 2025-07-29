@@ -331,7 +331,12 @@ void main() {
     });
 
     test('should handle very long style chains', () {
-      final g = Gesso().red.bold.italic.underline.blink
+      final g = Gesso()
+          .red
+          .bold
+          .italic
+          .underline
+          .blink
           .background(GessoColor.yellow)
           .and(100);
 
@@ -391,4 +396,3 @@ void main() {
     });
   });
 }
-

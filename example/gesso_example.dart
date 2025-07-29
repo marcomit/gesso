@@ -6,4 +6,3 @@ void main() {
 
   gPrint('pippo');
 }
-

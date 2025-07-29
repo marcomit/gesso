@@ -496,4 +496,3 @@ enum GessoColor {
   /// The ANSI escape code value for this color
   final int value;
 }
-
