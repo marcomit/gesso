@@ -1,6 +1,7 @@
 name: gesso
 description: A lightweight, chainable terminal styling library for Dart that makes your console output beautiful and expressive with ANSI escape sequences.
-version: 1.0.2
+version: 1.0.4
+publisher: marcomit.it
 
 repository: https://github.com/marcomit/gesso
 homepage: https://github.com/marcomit/gesso

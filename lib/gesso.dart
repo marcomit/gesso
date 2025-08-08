@@ -4,5 +4,4 @@
 /// and text decorations using ANSI escape sequences.
 library;
 
-export 'src/cursor.dart';
 export 'src/gesso.dart';
